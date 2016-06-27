@@ -1,3 +1,4 @@
+﻿
 warning: push.default is unset; its implicit value has changed in
 Git 2.0 from 'matching' to 'simple'. To squelch this message
 and maintain the traditional behavior, use:
@@ -20,3 +21,9 @@ See 'git help config' and search for 'push.default' for further information.
 'current' instead of 'simple' if you sometimes use older versions of Git)
 
 fatal: unable to access 'https://github.com/xuxiaoping2016/drag.git/': Couldn't                                                                                                     resolve host 'github.com'
+aaaaaaaaaaaaaaaaaaaaaaaaaaa
+
+zzzzzzzzzzzzz
+zzzzzzzzzzzzz
+你好
+ccjkjkjkjlk
